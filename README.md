@@ -1,5 +1,5 @@
 # PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24
-<h3> NAME:vignesh.v</h3>:
+<h3> NAME:vignesh.v</h3>
 <h3>REGISTER NO:212223230241</h3>
 <h3>EX. NO</h3>
 <h3>DATE</h3>
